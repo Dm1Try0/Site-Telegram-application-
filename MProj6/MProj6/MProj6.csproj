@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\fonts\Roboto-Black.woff" />
+    <None Include="wwwroot\fonts\Roboto-Black.woff2" />
+    <None Include="wwwroot\fonts\Roboto-Bold.woff" />
+    <None Include="wwwroot\fonts\Roboto-Bold.woff2" />
+    <None Include="wwwroot\fonts\Roboto-Light.woff" />
+    <None Include="wwwroot\fonts\Roboto-Light.woff2" />
+    <None Include="wwwroot\fonts\Roboto-Medium.woff" />
+    <None Include="wwwroot\fonts\Roboto-Medium.woff2" />
+    <None Include="wwwroot\fonts\Roboto-Regular.woff" />
+    <None Include="wwwroot\fonts\Roboto-Regular.woff2" />
+    <None Include="wwwroot\fonts\Roboto-Thin.woff" />
+    <None Include="wwwroot\fonts\Roboto-Thin.woff2" />
+    <None Include="wwwroot\fonts\swiper-icons.woff" />
+    <None Include="wwwroot\fonts\swiper-icons.woff2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.4.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+</Project>

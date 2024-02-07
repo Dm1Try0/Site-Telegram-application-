@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\MProj6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MProj6.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\css\\animate.alternative.css",
+      "PackagePath": "staticwebassets\\css\\animate.alternative.css"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Black.woff"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Light.woff"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Thin.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Thin.woff"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Thin.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Thin.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\swiper-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\swiper-icons.woff"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\fonts\\swiper-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\swiper-icons.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\1640531453_34-abrakadabra-fun-p-pauza-dlya-strima-38.jpg",
+      "PackagePath": "staticwebassets\\images\\1640531453_34-abrakadabra-fun-p-pauza-dlya-strima-38.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\1640531455_39-abrakadabra-fun-p-pauza-dlya-strima-43.jpg",
+      "PackagePath": "staticwebassets\\images\\1640531455_39-abrakadabra-fun-p-pauza-dlya-strima-43.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\4356b23f92ea5196632a11bd63256eb1.jpg",
+      "PackagePath": "staticwebassets\\images\\4356b23f92ea5196632a11bd63256eb1.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\7cffc04ba1863bd8185896204a0ccbe82593bcee-1681139873.webp",
+      "PackagePath": "staticwebassets\\images\\7cffc04ba1863bd8185896204a0ccbe82593bcee-1681139873.webp"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\BubblyNebula-Facecam_Static-Template.png",
+      "PackagePath": "staticwebassets\\images\\BubblyNebula-Facecam_Static-Template.png"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\ColorSplash-Facecam_Static-Template.png",
+      "PackagePath": "staticwebassets\\images\\ColorSplash-Facecam_Static-Template.png"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\OBS_LUTs_Reference.jpg",
+      "PackagePath": "staticwebassets\\images\\OBS_LUTs_Reference.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\Sunlight_static.png",
+      "PackagePath": "staticwebassets\\images\\Sunlight_static.png"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\b530a431b598286984002bae8bb2ebec5178247f-1688989110.webp",
+      "PackagePath": "staticwebassets\\images\\b530a431b598286984002bae8bb2ebec5178247f-1688989110.webp"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\cae4b85d0ad9db4ef3a183bd9cf73b48d7946256-1683575920.webp",
+      "PackagePath": "staticwebassets\\images\\cae4b85d0ad9db4ef3a183bd9cf73b48d7946256-1683575920.webp"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\cd35b127faa537fe383d9c2abad485fccbd14091-1681139952.webp",
+      "PackagePath": "staticwebassets\\images\\cd35b127faa537fe383d9c2abad485fccbd14091-1681139952.webp"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\doc_2023-09-21_01-01-19.mp4",
+      "PackagePath": "staticwebassets\\images\\doc_2023-09-21_01-01-19.mp4"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\newLC2.bmp",
+      "PackagePath": "staticwebassets\\images\\newLC2.bmp"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\photo_2023-07-03_17-54-02.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2023-07-03_17-54-02.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\photo_2023-08-03_12-36-56.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2023-08-03_12-36-56.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\photo_2023-08-04_22-21-22.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2023-08-04_22-21-22.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\photo_2023-08-12_21-19-23.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2023-08-12_21-19-23.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\photo_2023-08-17_14-41-37.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2023-08-17_14-41-37.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\photo_2023-08-17_14-58-38.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2023-08-17_14-58-38.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\photo_2023-08-23_22-24-33.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2023-08-23_22-24-33.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\photo_2023-10-17_16-35-10.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2023-10-17_16-35-10.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\video_2023-07-18_21-25-59.mp4",
+      "PackagePath": "staticwebassets\\images\\video_2023-07-18_21-25-59.mp4"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\images\\чфв.jpg",
+      "PackagePath": "staticwebassets\\images\\чфв.jpg"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\js\\tag.js",
+      "PackagePath": "staticwebassets\\js\\tag.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\js\\telegram-web-app.js",
+      "PackagePath": "staticwebassets\\js\\telegram-web-app.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\css\\animate.alternative.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\animate.alternative.css"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\css\\main.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\main.css"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\Web6\\MProj6\\MProj6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.MProj6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.MProj6.props",
+      "PackagePath": "build\\MProj6.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MProj6.props",
+      "PackagePath": "buildMultiTargeting\\MProj6.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.MProj6.props",
+      "PackagePath": "buildTransitive\\MProj6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,57 @@
+﻿@model IndexPage
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form method="post" asp-controller="Admin" asp-action="Edit" enctype="multipart/form-data">
+    <div asp-validation-summary="All"></div>
+    <div class="div-box">
+        <h4>Добавление обычных фото</h4>
+        <input type="file" name="photo" /> <br />
+        <input type="file" name="photo" /> <br />
+        <input type="file" name="photo" /><br />
+        <input type="file" name="photo" /><br />
+        <input type="file" name="photo" /><br />
+        <input type="file" name="photo" /><br />
+        <input type="file" name="photo" /><br />
+        <input type="file" name="photo" /><br />
+        <input type="file" name="photo" /><br />
+        <input type="file" name="photo" /><br />
+        <input type="file" name="photo" /><br />
+            <br />
+        <br />
+        <br />
+        <h4>Добавление фото с блюром</h4>
+        <input type="file" name="photoblur" /><br>
+        <input type="file" name="photoblur" /><br>
+        <input type="file" name="photoblur" /><br/>
+        <input type="file" name="photoblur" /><br/>
+        <input type="file" name="photoblur" /><br/>
+        <input type="file" name="photoblur" /><br/>
+        <input type="file" name="photoblur" /><br/>
+        <input type="file" name="photoblur" /><br/>
+        <input type="file" name="photoblur" /><br/>
+        <input type="file" name="photoblur" />
+        <br />
+        <br />
+        <br />
+        <h4>Добавление Видео</h4>
+        <input type="file" name="videos" /><br>
+        <h4>Титульное фото для этого видео</h4>
+        <input type="file" name="titlevid" /><br>
+        <br />
+        <br />
+        <br />
+        <h4>Добавление видео с блюром</h4>
+        <input type="file" name="vidblur" /><br>
+        <h4>Титульное фото для этого видео</h4>
+        <input type="file" name="titlevidblur" /><br>
+
+        <br />
+        <br />
+       
+    </div>
+
+    <input type="submit" value="Сохранить" />
+</form>

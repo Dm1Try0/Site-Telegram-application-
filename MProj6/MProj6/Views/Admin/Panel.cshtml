@@ -1,0 +1,57 @@
+﻿@model List<IndexPage>;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>@($"Панель Администратора")</h2>
+<div>
+    <h3>Наши услуги</h3>
+    <br />
+    <br />
+    <div class="div-box">
+        <a asp-controller="Admin" asp-action="AddStory" asp-route-id="">Добавить новую историю(больше 6 не добавлять)</a> 
+    </div>
+    <div>
+        <h3>Истории на главной</h3>
+
+        @foreach (string item in ViewBag.titleinfo)
+        {
+            string[] b = item.Split(":");
+            <a>@($"Name: {b[0]} | Id: {b[1]}")</a> <form style="display: inline-block;" id="form-@($"{b[2]}")" asp-controller="Admin" asp-action="Delete" method="post">
+                <input type="hidden" name="id" value="@($"{b[2]}")">
+                <a href="Delete?id=@($"{b[2]}")&title=1">Удалить</a>
+               
+            </form>
+            <br />
+        }
+    </div>
+    <br />
+    <br />
+    <div class="div-box">
+        <a asp-controller="Admin" asp-action="Add" asp-route-id="">Добавить новый обьект</a>
+    </div>
+    <br />
+    <br />
+    @if (Model.Any())
+    {
+        <div>
+            @foreach (IndexPage entity in Model)
+            {
+                <div>
+                    <a>@($"{entity.Name}")</a>
+                    <a asp-controller="Admin" asp-action="Edit" asp-route-id="@entity.Id">Добавить медиа</a>
+                    |
+                    <form style="display: inline-block;" id="form-@entity.Id" asp-controller="Admin" asp-action="Delete" method="post">
+                        <input type="hidden" name="id" value="@entity.Id">  
+                        <a href="Delete?id=@entity.Id">Удалить</a>
+                    </form>
+                    |
+                    <a asp-controller="Admin" asp-action="Index" asp-route-id="@entity.Id">
+                        @($"{entity.Tag}")
+                    </a>
+                </div>
+            }
+        </div>
+    }
+</div>

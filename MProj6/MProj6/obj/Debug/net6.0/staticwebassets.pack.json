@@ -1,0 +1,221 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MProj6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MProj6.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\css\\animate.alternative.css",
+      "PackagePath": "staticwebassets\\css\\animate.alternative.css"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Black.woff"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Light.woff"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Thin.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Thin.woff"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\Roboto-Thin.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Thin.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\swiper-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\swiper-icons.woff"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\fonts\\swiper-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\swiper-icons.woff2"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\js\\tag.js",
+      "PackagePath": "staticwebassets\\js\\tag.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\js\\telegram-web-app.js",
+      "PackagePath": "staticwebassets\\js\\telegram-web-app.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\css\\animate.alternative.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\animate.alternative.css"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\css\\main.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\main.css"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\My bots\\SiteForGit\\MProj6\\MProj6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MProj6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MProj6.props",
+      "PackagePath": "build\\MProj6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MProj6.props",
+      "PackagePath": "buildMultiTargeting\\MProj6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MProj6.props",
+      "PackagePath": "buildTransitive\\MProj6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

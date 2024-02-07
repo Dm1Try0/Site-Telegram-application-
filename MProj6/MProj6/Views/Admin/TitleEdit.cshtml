@@ -1,0 +1,34 @@
+﻿@model List<TitleStories>;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>@($"Панель Администратора")</h2>
+<div>
+    <h3>Истории сверху на главной странице</h3>
+    <br />
+    <br />
+    <div class="div-box">
+        <a asp-controller="Admin" asp-action="AddStory" asp-route-id="">Добавить новую историю(больше 6 не добавлять)</a>
+    </div>
+    <br />
+    <br />
+    @if (Model.Any())
+    {
+        <div>
+            @foreach (TitleStories entity in Model)
+            {
+                <div>
+                    <a>@($"{entity.Name}")</a>
+                    <a asp-controller="Admin" asp-action="AddTitle" asp-route-id="@entity.Id">Добавить медиа</a>
+                    |
+                    <form style="display: inline-block;" id="form-@entity.Id" asp-controller="Admin" asp-action="Delete" method="post">
+                        <input type="hidden" name="id" value="@entity.Id">
+                        <a href="Delete?id=@entity.Id&title=1">Удалить</a>
+                    </form>
+                </div>
+            }
+        </div>
+    }
+</div>

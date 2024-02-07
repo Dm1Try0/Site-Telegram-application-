@@ -1,0 +1,22 @@
+﻿@model TitleStories
+@{
+}
+<form method="post" asp-controller="Admin" asp-action="CheckStories" enctype="multipart/form-data">
+    <div asp-validation-summary="All"></div>
+    <div class="div-box">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div class="div-box">
+        <label asp-for="UrlId"></label>
+        <input asp-for="UrlId" />
+        <span asp-validation-for="UrlId"></span>
+    </div>
+    <div class="div-box">
+        <label asp-for="Photo"></label>
+        <input type="file" name="uploads" /><br>
+    </div>
+
+    <input type="submit" value="Сохранить" />
+</form>
